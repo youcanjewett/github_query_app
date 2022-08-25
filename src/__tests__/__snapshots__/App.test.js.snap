@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches Snapshot 1`] = `
+<div
+  class="app_container"
+>
+  <h1
+    class="app_title"
+  >
+    GitHub Repo Search
+  </h1>
+  <div>
+    <div>
+      <input
+        class="searchbar"
+        onChange={[Function]}
+        placeholder="Enter a GitHub username"
+        required={true}
+        size="30"
+        type="text"
+        value=""
+      />
+      <button
+        class="submit_button"
+        onClick={[Function]}
+      >
+        Submit
+      </button>
+    </div>
+  </div>
+  <div
+    class="repo_items"
+  >
+    No repos yet
+  </div>
+</div>
+`;
